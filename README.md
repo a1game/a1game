@@ -1,2 +1,2 @@
--- This is the official profile for A1Games - No Other Profiles Exist Forking Is Permitted
+-- This is the official profile for A1Games
 -- Forkphorus and Unity WebGL Built Games
